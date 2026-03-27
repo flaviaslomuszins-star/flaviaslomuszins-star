@@ -1,34 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 👋 Olá, eu sou Flávia Slomuszinski
 
-🎓 Estudante da Aprendizagem Industrial  
-💻 Interessado em tecnologia, programação e inovação  
-contratada pela empresa JBS
+🎓 Estudante da Aprendizagem Industrial de Programador de Sistemas de Infromação.(SENAI) Contratada Pela Empresa Seara Alimentos.
+🎓 Estudante do 1º ano da escola de educação básica governador Bornhausen 2026.
+💻 Interessado em tecnologia, programação e inovação 
 
 ---
 
