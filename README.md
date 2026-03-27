@@ -1,7 +1,34 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Olá, eu sou Flávia Slomuszinski
 
 🎓 Estudante da Aprendizagem Industrial  
 💻 Interessado em tecnologia, programação e inovação  
+contratada pela empresa JBS
 
 ---
 
